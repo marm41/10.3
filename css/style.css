@@ -1,0 +1,23 @@
+li {
+	width: 400px;
+	height: 300px;
+	list-style: none;
+	float: right;
+}
+
+.carousel {
+	margin: 0 auto;
+	width: 400px;
+	height: 300px;
+	border-style: solid;
+	border-width: 10px;
+	border-color: black;
+	overflow: hidden;
+}
+
+ul {
+	width: 2000px;
+	list-style: none outside none;
+	margin: 0;
+	padding-left: 0;
+}
